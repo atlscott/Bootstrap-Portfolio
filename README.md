@@ -96,7 +96,7 @@ the portfolio you made last week with a mobile-responsive layout.
 ### Minimum Requirements
 
 Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed.
-
+ 
 - - -
 
 ### One More Thing
